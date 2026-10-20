@@ -1,0 +1,9 @@
+node_modules/
+.local-tools/
+dist/
+.codex/config.toml
+.codex/mcp.local.json
+lua.deploy.local.json
+.lua-deploy-state.json
+.lua-deploy-backups/
+*.log
